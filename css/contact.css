@@ -1,0 +1,27 @@
+/* Contact CSS */
+
+.contact-section {
+    width: 50%;
+    height: 500px;
+}
+
+.contact-form {
+    height: 517px;
+    width:100%;
+    border: none;
+}
+
+.test-iframe {
+    height: 300px;
+    width: 500px;
+}
+
+.map {
+    height: 300px;
+    width: 225px;
+    border: none;
+}
+
+.contact-top {
+        padding-top: 100px;
+}

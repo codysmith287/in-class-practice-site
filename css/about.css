@@ -1,0 +1,19 @@
+/* About StyleSheet */
+
+.half {
+    margin-top: 50px;
+    height: 700px;
+    width: 50%;
+}
+.about-text-header {
+   font-size: 200%; 
+   text-align: center;
+}
+.self {
+   height: 300px;
+   width: 300px;
+   border-radius: 100%;
+   display:block;
+   margin-left: 50px;
+}
+
